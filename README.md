@@ -1,5 +1,5 @@
 # Слоўнік націскаў беларускай мовы
-StarDict Belarusian language stresses dictionary [be_stress.zip](https://github.com/anekomaton/be_stress/releases/tag/be_stress)
+StarDict Belarusian language stresses dictionary [release](https://github.com/anekomaton/be_stress/releases/tag/be_stress)
 ## ў фармаце StarDict
 на аснове [Граматычнай базы беларускай мовы](https://github.com/Belarus/GrammarDB/releases)
 #### утрымлівае 1304615 слоў
